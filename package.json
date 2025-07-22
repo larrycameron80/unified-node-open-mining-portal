@@ -49,7 +49,7 @@
         "async": "1.5.2",
         "express": "4.13.4",
         "body-parser": "1.15.0",
-        "compression": "1.6.1",
+        "compression": "1.8.1",
         "dot": "1.0.3",
         "newrelic": "1.25.4",
         "colors": "1.1.2",
